@@ -3,6 +3,11 @@
 
 from random import randint
 
+print('***************************************')
+print('Seja bem vindo ao jogo de adivinhação!')
+print('***************************************')
+print('\n')
+
 numero_secreto = randint(1,5)
 
 numero_escolhido = 0
